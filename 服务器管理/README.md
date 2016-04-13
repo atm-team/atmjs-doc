@@ -1,5 +1,7 @@
-# 服务器配置项说明
-homedir/.atmjs/server.json
+## 服务器配置文件位置
+服务器的配置文件位于 ~/.atmjs/server.json
+## 服务器配置项说明
+
 ```json
 {
     "maps": {
@@ -31,3 +33,5 @@ https.files里面的字段可以把文件转换为字符添加到https.options�
 
 logger设置是否在命令行窗口打印出http请求相关信息
 ```
+
+##
