@@ -10,19 +10,4 @@
 * 支持callback和timeout参数
 * atmjs并不建议对数据做复杂的处理,比较atmjs只是一个前端开发系统,真正的数据业务应该在真实的后端去实现
 
-###测试模板与测试数据协同工作实例
-```html
-<form method="post" action="{{ '/datas/ajax.js' | uri }}?timeout=1000">
-  <input type="text" name="test" value="test" />
-  <input type="submit" />
-</form>
-```
 
-```javascript
-module.exports = function () {
-  return {
-    status: true,
-    message: '操作成功'
-  }
-}
-```
