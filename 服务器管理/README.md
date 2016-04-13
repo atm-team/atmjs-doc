@@ -34,6 +34,6 @@ https.files里面的字段可以把文件转换为字符添加到https.options�
 logger设置是否在命令行窗口打印出http请求相关信息
 ```
 
-##配置修改
+##配置修改有下面两种方法
 * 打开~/.atmjs/server.json文件直接编辑
 * 
