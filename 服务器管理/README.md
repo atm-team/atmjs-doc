@@ -1,4 +1,3 @@
-# 对服务器的管理主要体现在对服务器的配置
 # 服务器配置
 homedir/.atmjs/server.json
 ```json
