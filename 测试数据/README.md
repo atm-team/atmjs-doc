@@ -8,7 +8,7 @@
 * 测试数据对应的uri： 
 /node-files/siteName/projectName/moduleName/versionName/datas/fileName.ext
 * 支持callback和timeout参数
-* atmjs并不建议对数据进行复杂的处理
+* atmjs并不建议对数据做复杂的处理,比较atmjs只是一个前端开发系统,真正的数据业务应该在后端去实现
 
 ###测试模板与测试数据协同工作实例
 ```html
