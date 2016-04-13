@@ -1,5 +1,5 @@
 ## 服务器配置文件位置
-服务器的配置文件位于 ~/.atmjs/server.json
+服务器的配置文件: ~/.atmjs/server.json
 ## 服务器配置项说明
 
 ```json
