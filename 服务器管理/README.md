@@ -1,4 +1,4 @@
-# 服务器配置
+# 服务器配置项说明
 homedir/.atmjs/server.json
 ```json
 {
