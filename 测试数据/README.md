@@ -12,7 +12,7 @@
 
 ###测试模板与测试数据协同工作实例
 ```html
-<form method="post" action="{{ '/datas/ajax.js' | uri() }}?timeout=1000">
+<form method="post" action="{{ '/datas/ajax.js' | uri }}?timeout=1000">
   <input type="text" name="test" value="test" />
   <input type="submit" />
 </form>
