@@ -7,7 +7,6 @@
 * 对于非公共模块,支持js格式文件返回数据
 * 测试数据对应的uri： 
 /node-files/siteName/projectName/moduleName/versionName/datas/fileName.ext
-
 * 支持callback和timeout参数
 
 ###测试模板与测试数据协同工作实例
