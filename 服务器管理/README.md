@@ -25,7 +25,7 @@ homedir/.atmjs/server.json
 ```
 其中,maps字段表明的是站点名称与站点路径的关系
 路径中可用的占位符 {{homedir}}指向用户目录(即node.js中通过 require('os').homedir() 获取的路径)
-maps.atmgui是atmjs的GUI站点，不可被覆盖
+maps.atmgui是atmjs的可视化管理站点，不可被覆盖
 https,参考[node.js/https的API](https://nodejs.org/api/https.html)
 https.files里面的字段可以把文件转换为字符添加到https.options中
 
