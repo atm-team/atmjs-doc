@@ -8,6 +8,7 @@
 * 测试数据对应的uri： 
 /node-files/siteName/projectName/moduleName/versionName/datas/fileName.ext
 * 支持callback和timeout参数
+* atmjs希望
 
 ###测试模板与测试数据协同工作实例
 ```html
