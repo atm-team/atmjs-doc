@@ -2,11 +2,12 @@
 ###说明
 
 ###测试数据文件规范
-1. 测试数据文件应创建到版本目录下的/datas目录下
-2. 支持.html,.json,.xml等文本格式文件
-3. 对于非公共模块,支持js格式文件返回数据
-4. 测试数据对应的uri： /node-files/siteName/projectName/moduleName/versionName/datas/fileName.ext
-5. 支持callback和timeout参数
+* 测试数据文件应创建到版本目录下的/datas目录下
+* 支持.html,.json,.xml等文本格式文件
+* 对于非公共模块,支持js格式文件返回数据
+* 测试数据对应的uri： 
+/node-files/siteName/projectName/moduleName/versionName/datas/fileName.ext
+* 支持callback和timeout参数
 
 ###测试模板与测试数据协同工作实例
 ```html
