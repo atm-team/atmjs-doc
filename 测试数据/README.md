@@ -6,7 +6,7 @@
 * 支持.html,.json,.xml等文本格式文件
 * 对于非开放模块,支持js模块返回数据
 * 测试数据对应的uri： 
-/node-files/siteName/projectName/moduleName/versionName/datas/fileName.ext
+/node-files/站点名/项目名/模块名/版本号/datas/文件名.ext
 * 支持callback和timeout参数
 * atmjs并不建议对数据做复杂的处理,比较atmjs只是一个前端开发系统,真正的数据业务应该在真实的后端去实现
 
