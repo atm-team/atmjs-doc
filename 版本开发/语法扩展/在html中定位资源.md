@@ -8,6 +8,6 @@
 <img title="百度logo" src="/node-files/siteName/***/images/logo.gif"/>
 
 
-<!-- 编译到其他目标后 -->
-<img title="百度logo" src="/node-files/siteName/***/images/logo.gif"/>
+<!-- 编译到其他目标后大致如下 -->
+<img title="百度logo" src="http://hostname/***/images/logo.gif"/>
 ```
