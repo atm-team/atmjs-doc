@@ -12,7 +12,7 @@
 
 [具体用法参考 fis3资源定位](http://fis.baidu.com/fis3/docs/user-dev/uri.html)
 
-在atmjs中资源定位只需要记住一点： 用相对定位即可
+在atmjs中资源定位只需要记住一点： 用相对定位
 
 ###声明依赖 (依赖的资源可以不在当前版本下)
 
