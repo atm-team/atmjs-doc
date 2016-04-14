@@ -1,7 +1,23 @@
 # 开启https
 * 打开 ~/.atmjs/server.json
 * 把证书文件放在自己喜欢的位置，eg: ~/.atmjs/https/ssl.pfx
-* 
-ß
+* 修改maps字段
+```json
+{
+  ...
+  "https": {
+      "status": false,
+      "port": 2016,
+      "hostname": "hostname",
+      "options": {
+          "passphrase": "passphrase",
+          //...
+      },
+      "files": {
+          "pfx": "{{homedir}}/.atmjs/https/ssl.pfx"
+      }
+  }
+}
+```
 
 
