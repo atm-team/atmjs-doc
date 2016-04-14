@@ -14,7 +14,7 @@
           //...
       },
       "files": {
-          "pfx": "{{homedir}}/.atmjs/https/ssl.pfx"    // 证书路径， {{homedir}}指向用户目录
+          "pfx": "{{homedir}}/.atmjs/https/ssl.pfx"    // 证书路径， {{homedir}}变量指向用户目录
       }
   }
 }
