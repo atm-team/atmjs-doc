@@ -19,12 +19,14 @@
 /**
  * @require '{{project}}/common:common.css'
  */
+ 
 或
+
 /**
  * @require 'www/common:common.css'
  */
  
 ```
 
-推荐用占位符 {{project}}代替项目名称，这样修改项目名称时不用再修改源码
+可以用占位符 {{project}}代替项目名称，这样修改项目名称时不用再修改源码
 
