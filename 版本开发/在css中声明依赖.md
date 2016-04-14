@@ -5,8 +5,7 @@
 // /exports/demo.css
 
 /**
- * demo.css
- * @require reset.css
+ * @require ./common.css
  */
  ```
 <br>
