@@ -9,5 +9,5 @@
 
 
 <!-- 编译到其他目标后大致如下 -->
-<img title="百度logo" src="http://hostname/***/images/logo.gif"/>
+<img title="百度logo" src="http://hostname/***/images/logo_xxxxxxx.gif"/>
 ```
