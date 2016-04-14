@@ -8,7 +8,7 @@
       "status": true,            // 默认关闭，需修改为状态设置为true
       "port": 2016,              // https端口
       "hostname": "test.a.com",  // 域名
-      "options": {               // 
+      "options": {               // 参考[node.js/https的API](https://nodejs.org/api/https.html)
           "passphrase": "***",  
           //...
       },
