@@ -1,2 +1,2 @@
 # 服务器
-atmjs提供了
+atmjs用node.js集成了
