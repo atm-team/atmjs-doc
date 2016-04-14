@@ -13,7 +13,7 @@
           //...
       },
       "files": {
-          "pfx": "{{homedir}}/.atmjs/https/ssl.pfx"    // 证书路径
+          "pfx": "{{homedir}}/.atmjs/https/ssl.pfx"    // 证书路径， {{homedir}}指向用户目录
       }
   }
 }
