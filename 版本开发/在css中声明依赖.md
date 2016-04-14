@@ -13,15 +13,16 @@
 * 同项目不同模块下的声明,可用 {{project}} 占位符
 
 ```
-// www/index/1.0.0/exports/demo.js
+// www/index/1.0.0/src/demo.css
 
-require('{{project}}/common:common');  
-或
-require('www/common:common')
 
-// @require '{{project}}/common:common.css'
+/**
+ * @require '{{project}}/common:common.css'
+ */
 或
-// @require 'www/common:common.css'
+/**
+ * @require 'www/common:common.css'
+ */
  
 ```
 
